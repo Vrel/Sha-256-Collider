@@ -1,7 +1,6 @@
 # Sha-256-Collider
 
-by Robert Thompson
-Nov 7, 2016
+by Robert Thompson - Nov 7, 2016
 
 Originally written for an assignment in a Cryptography class at Sacramento State University.
 
